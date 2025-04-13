@@ -1,0 +1,102 @@
+date,amount,category,description
+01-01-2025,1297.22,Expense,Shopping
+02-01-2025,2612.35,Income,Salary
+03-01-2025,1426.19,Expense,Rent
+03-01-2025,2609.98,Income,Side gig
+05-01-2025,1117.6,Income,Side gig
+05-01-2025,1311.74,Expense,Shopping
+06-01-2025,3157.91,Income,Bonus
+09-01-2025,1119.79,Income,Freelance
+09-01-2025,5670.23,Income,Bonus
+10-01-2025,1899.49,Expense,Shopping
+10-01-2025,1933.32,Income,Side gig
+11-01-2025,4588.8,Income,Bonus
+11-01-2025,1648.2,Expense,Electricity Bill
+13-01-2025,3091.42,Income,Investment return
+13-01-2025,7596.99,Income,Investment return
+14-01-2025,126.46,Expense,Dining
+15-01-2025,3734.84,Income,Freelance
+17-01-2025,605.6,Expense,Gym
+17-01-2025,4231.39,Income,Salary
+20-01-2025,1414.41,Expense,Headphones
+20-01-2025,1019.66,Expense,Headphones
+20-01-2025,848.6,Expense,Shopping
+20-01-2025,8145.29,Income,Bonus
+20-01-2025,298.79,Expense,Gym
+23-01-2025,1440.92,Income,Salary
+23-01-2025,414.46,Expense,Electricity Bill
+25-01-2025,765.26,Expense,Rent
+25-01-2025,456.2,Expense,Groceries
+25-01-2025,1431.44,Income,Side gig
+25-01-2025,3236.17,Income,Salary
+25-01-2025,1690.12,Expense,Gym
+27-01-2025,3952.03,Income,Side gig
+27-01-2025,933.56,Expense,Electricity Bill
+29-01-2025,1430.72,Expense,Groceries
+29-01-2025,9015.8,Income,Bonus
+29-01-2025,845.92,Expense,Electricity Bill
+29-01-2025,6334.4,Income,Bonus
+29-01-2025,2003.1,Income,Salary
+02-02-2025,2075.24,Income,Side gig
+02-02-2025,1560.28,Expense,Groceries
+03-02-2025,1568.56,Expense,Electricity Bill
+05-02-2025,5006.76,Income,Investment return
+08-02-2025,8410.52,Income,Salary
+08-02-2025,6169.68,Income,Investment return
+08-02-2025,1735.61,Expense,Headphones
+09-02-2025,437.39,Expense,Rent
+09-02-2025,8943.44,Income,Freelance
+11-02-2025,3622.63,Income,Investment return
+11-02-2025,3136.01,Income,Side gig
+12-02-2025,8389.17,Income,Investment return
+13-02-2025,1036.48,Expense,Gym
+14-02-2025,3868.32,Income,Bonus
+15-02-2025,1532.51,Expense,Dining
+15-02-2025,729.6,Expense,Rent
+16-02-2025,1600.11,Expense,Transport
+17-02-2025,1962.05,Income,Salary
+19-02-2025,4584.1,Income,Salary
+20-02-2025,1545.05,Expense,Dining
+22-02-2025,5470.79,Income,Freelance
+28-02-2025,6856.79,Income,Investment return
+03-03-2025,2578.03,Income,Salary
+04-03-2025,4407.06,Income,Salary
+06-03-2025,1711.54,Expense,Gym
+07-03-2025,201.81,Expense,Rent
+08-03-2025,671.05,Expense,Dining
+10-03-2025,1100.59,Expense,Electricity Bill
+10-03-2025,3945.42,Income,Investment return
+11-03-2025,8747.89,Income,Investment return
+11-03-2025,4813.46,Income,Bonus
+11-03-2025,66.52,Expense,Shopping
+11-03-2025,1356.34,Expense,Rent
+11-03-2025,4879.66,Income,Salary
+12-03-2025,774.39,Expense,Transport
+12-03-2025,1594.33,Expense,Dining
+12-03-2025,5937.86,Income,Bonus
+13-03-2025,6642.72,Income,Investment return
+13-03-2025,555.54,Income,Freelance
+18-03-2025,1144.49,Expense,Groceries
+18-03-2025,1526.2,Expense,Electricity Bill
+20-03-2025,6749.91,Income,Freelance
+20-03-2025,1124.89,Expense,Electricity Bill
+23-03-2025,1848.94,Expense,Shopping
+25-03-2025,7680.44,Income,Investment return
+25-03-2025,858.62,Expense,Rent
+25-03-2025,5614.16,Income,Salary
+27-03-2025,6292.3,Income,Salary
+28-03-2025,3823.59,Income,Side gig
+28-03-2025,3406.03,Income,Investment return
+29-03-2025,1709.54,Expense,Groceries
+30-03-2025,9743.87,Income,Side gig
+01-04-2025,190.35,Expense,Transport
+04-04-2025,5732.76,Income,Investment return
+06-04-2025,1455.44,Expense,Gym
+06-04-2025,1984.8,Expense,Headphones
+06-04-2025,890.53,Expense,Shopping
+06-04-2025,9807.38,Income,Salary
+07-04-2025,1585.86,Expense,Dining
+10-04-2025,984.93,Expense,Groceries
+11-04-2025,5251.72,Income,Side gig
+13-04-2025,4042.1,Income,Investment return
+
